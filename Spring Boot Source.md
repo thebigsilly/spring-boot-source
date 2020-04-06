@@ -43,22 +43,8 @@ AutoConfigurationImportSelector
 添加EnableAutoConfiguration
 
 ```
-ConfigurationProperties
-```
-
-```
 ConditionalOnWebApplication
 ```
-
-EnableConfigurationProperties
-
-ConditionalOnProperty
-
-ConditionalOnClass
-
-ConditionalOnMissingBean
-
-AutoConfigureBefore
 
 @Qualifier
 
